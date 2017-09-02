@@ -1,6 +1,6 @@
 .header {
 padding: 50px 13.5% 0 13.5%;
-min-height: 900px;
+min-height: 1000px;
 background-image: url(../img/hero.jpg);
 background-size: cover;
 background-repeat: no-repeat; }
@@ -9,7 +9,7 @@ width: 100%;
 display: flex;
 justify-content: space-between; }
 .header__top .logo {
-width: 111px;
+width: 110px;
 height: 18px; }
 .header .nav__menu-item {
 list-style-type: none;
